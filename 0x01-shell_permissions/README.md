@@ -1,1 +1,1 @@
-shell permision
+how some file not work
